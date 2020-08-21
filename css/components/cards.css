@@ -3,12 +3,16 @@
   height: 180px;
   background-size: cover;
   background-position: center;
-  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 4px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  text-shadow: 0 10px 30px rgba(0,0,0,0.4);
+}
+
+.card-category h1 {
+  color: white;
   text-shadow: 0 10px 30px rgba(0,0,0,0.4);
 }
 
